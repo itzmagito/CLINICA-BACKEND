@@ -1,0 +1,17 @@
+pe\edu\pucp\cita\bo\DiagnosticoBO.class
+pe\edu\pucp\empresa\bo\ConsultorioBO.class
+pe\edu\pucp\cita\bo\CitaMedicaBO.class
+pe\edu\pucp\usuario\bo\AdministradorBO.class
+pe\edu\pucp\empresa\bo\EspecialidadBO.class
+pe\edu\pucp\cita\bo\HistorialClinicoBO.class
+pe\edu\pucp\usuario\bo\MedicoBO.class
+pe\edu\pucp\empresa\bo\LocalBO.class
+pe\edu\pucp\usuario\bo\DisponibilidadBO.class
+pe\edu\pucp\usuario\bo\PersonaBO.class
+pe\edu\pucp\empresa\bo\DepartamentoBO.class
+pe\edu\pucp\usuario\bo\PacienteBO.class
+pe\edu\pucp\empresa\bo\CiudadBO.class
+pe\edu\pucp\empresa\bo\EmpresaBO.class
+pe\edu\pucp\cita\bo\TratamientoBO.class
+pe\edu\pucp\usuario\bo\TipoDeSangreBO.class
+pe\edu\pucp\usuario\bo\UsuarioBO.class
